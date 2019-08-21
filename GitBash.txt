@@ -12,6 +12,8 @@ Git Bash
 >git add filename.txt
 #Update files in git repo
 >git add -u filename.txt
+#when in doubt
+>git add -A
 #View all files
 >ls
 OR
